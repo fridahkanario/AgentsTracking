@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "877168175721",
+    "firebase_url": "https://agentstrack-d7b0e.firebaseio.com",
+    "project_id": "agentstrack-d7b0e",
+    "storage_bucket": "agentstrack-d7b0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877168175721:android:e4b7f0827e02db10",
+        "android_client_info": {
+          "package_name": "com.example.kanario.agentstrack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877168175721-thgnrpfsqj42qcl7mkgedc394ge2ca69.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kanario.agentstrack",
+            "certificate_hash": "a5fd031cad29c276fcf06bc76a04df8146a05c99"
+          }
+        },
+        {
+          "client_id": "877168175721-jb1j6iecce7fpvdqb7bl5bkjnfcpi8h8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWCSI5CDOOTn_R0JCQwV7U2sYiUSKDwbc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877168175721-jb1j6iecce7fpvdqb7bl5bkjnfcpi8h8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877168175721:android:d3f5641dd243f638",
+        "android_client_info": {
+          "package_name": "com.example.kanario.agenttracking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877168175721-5fibld1s76l42u6oqfvurn2iua3d7nj7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kanario.agenttracking",
+            "certificate_hash": "a5fd031cad29c276fcf06bc76a04df8146a05c99"
+          }
+        },
+        {
+          "client_id": "877168175721-jb1j6iecce7fpvdqb7bl5bkjnfcpi8h8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWCSI5CDOOTn_R0JCQwV7U2sYiUSKDwbc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877168175721-jb1j6iecce7fpvdqb7bl5bkjnfcpi8h8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

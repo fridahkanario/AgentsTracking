@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AgentTracking</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_display">Transport Display</string>
+    <string name="firebase_path" translatable="false">locations</string>
+    <string name="firebase_email" translatable="false">fridahmmwika@gmail.com</string>
+    <string name="firebase_password" translatable="false">0704946070</string>
+</resources>
